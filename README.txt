@@ -5,5 +5,6 @@
 今後ともenchant.jsに注目していきます！
 
 
+
 ファミ通app
 http://app.famitsu.com/20110929_1778/
