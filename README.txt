@@ -9,5 +9,6 @@
 
 ファミ通app
 http://app.famitsu.com/20110929_1778/
+
 =======
 >>>>>>> temp1
